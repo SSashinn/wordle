@@ -1,4 +1,4 @@
-# worlde
+# WORDLE
 wordle game
 
 Every time you start the program, a new random word will be generated.
